@@ -1,0 +1,143 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.t1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-weight: normal;
+  color: #11999e;
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #11999e;
+}
+p {
+  line-height: 2;
+  font-family: "Montserrat", sans-serif;
+}
+.ml {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.dl {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.cv {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.dv {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.top-container {
+  background-color: #fff5eb;
+  height: 611px;
+  margin: 0px;
+  padding-top: 50px;
+  position: relative;
+  margin: 0px;
+}
+.middle-container {
+  background-color: #deedf0;
+  margin: 0px;
+}
+.bottom-container {
+  background-color: #b2b8a3;
+  margin: 0px;
+  padding: 20px;
+}
+.contact {
+  background-color: #f4c7ab;
+  margin: 0px;
+  padding: 5px;
+}
+.topcloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottomcloud {
+  position: absolute;
+  top: 300px;
+  left: 200px;
+}
+.mount {
+  position: absolute;
+  top: 304px;
+  align-items: center;
+  right: 350px;
+}
+.linkedin {
+  position: relative;
+  top: 20px;
+  right: 80px;
+}
+.instagram {
+  position: relative;
+  margin: 0 20px;
+
+}
+.profile-pic {
+  width: 20%;
+}
+.desc {
+  color: #40514e;
+}
+hr {
+  width: 10%;
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  color: #40514e;
+}
+.copy {
+  color: #eaf6f6;
+}
+
+.contactbutton {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 70px;
+  height: 2px;
+  line-height: 3px;
+  color: #ffffff;
+  font-family: Verdana;
+  width: 181px;
+  font-size: 24px;
+  font-weight: 200;
+  padding: 31px;
+  background-color: #11999e;
+  -webkit-box-shadow: 1px 1px 54px 0 #fff5eb;
+  -moz-box-shadow: 1px 1px 54px 0 #fff5eb;
+  box-shadow: 1px 1px 54px 0 #fff5eb;
+  text-shadow: 1px 1px 100px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
